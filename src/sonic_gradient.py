@@ -2,7 +2,6 @@ from dbos_sdk import Workflow, HttpApi, Database
 import fitbit
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
-import os
 
 # Replace with your actual credentials
 FITBIT_CLIENT_ID = 'your_fitbit_client_id'
