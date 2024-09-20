@@ -1,0 +1,12 @@
+{
+  "name": "sonicgradient",
+  "version": "1.0.0",
+  "dependencies": {
+    "@dbos-inc/dbos-sdk": "latest",
+    "fitbit-node": "^2.2.0",
+    "spotify-web-api-node": "^5.0.2"
+  },
+  "scripts": {
+    "deploy": "dbos-cloud app deploy"
+  }
+}
