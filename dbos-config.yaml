@@ -1,0 +1,6 @@
+application:
+  name: sonicgradient
+database:
+  databaseName: sonicgradient
+  user: ${DBOS_DB_USER}
+  password: ${DBOS_DB_PASSWORD}
