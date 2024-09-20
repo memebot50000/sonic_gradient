@@ -1,3 +1,7 @@
 dbos-sdk
 fitbit==0.3.1
 spotipy==2.23.0
+fastapi==0.68.0
+uvicorn==0.15.0
+fitbit==0.3.1
+spotipy==2.23.0
